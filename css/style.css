@@ -1,0 +1,246 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #F5F6F6 !important;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-link{
+    color: #222429 !important;
+}
+
+.active{
+    font-weight: bold !important;
+}
+
+.btn-outline-success{
+    margin-right: 20px;
+    padding: 5px !important;
+    border: 2px solid #979797 !important;
+    color: #979797 !important;
+    width: 100px;
+    border-radius: 10px !important;
+
+}
+
+.btn-outline-success:hover{
+    background-color: #F5F6F6 !important;
+}
+
+.gmail{
+    width: 30px;
+    height: 30px;
+}
+
+.icons{
+    margin-right: 10px;
+    padding: 7px;
+    border-radius: 30px;
+
+}
+
+.header-main{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.header-text{
+    color: #222429;
+}
+
+.header-text-sub{
+    color: #979797;
+}
+
+.header-search{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+}
+
+.search-vectors{
+    border: none;
+    margin-right: 190px;
+}
+
+.dropdownshow{
+    margin-right: 20px;
+    border: 2px solid #979797;
+    border-radius: 10px;
+}
+
+.v-txt{
+    font-weight: 600;
+}
+
+.action{
+    margin-top: 30px;
+}
+
+.bi-sliders{
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+.bi-bookmark-plus-fill{
+    font-size: 20px;
+ 
+}
+
+.action1{
+    margin-right: 17px;
+    color: #222429;
+}
+/* .actions{
+    position: absolute;
+
+}
+
+.bi-dot{
+    position: relative;
+} */
+.Premium{
+    color: #FF4E00;
+}
+
+.Free{
+    color: #3481EF;
+}
+
+.card{
+    padding: 20px;
+    border-radius: 10px !important;
+    border: none !important;
+    padding-bottom: 0px !important;
+
+}
+
+.card-img-top1{
+    height: 297px;
+}
+.img-top{
+    border-radius: 10px;
+    background-color: #F5F6F6;
+}
+
+.card-title{
+    text-align: center !important;
+}
+
+.description{
+    font-size: 40px;
+    color: #222429;
+    font-weight: 400;
+}
+
+.sub-text{
+color: #979797;
+}
+.card-body{
+    text-align: center !important;
+}
+.d-icon{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+.download{
+    color: #222429;
+    margin-right: 10px;
+}
+
+.bi-download{
+    font-size: 18px;
+    font-weight: bold !important;
+}
+
+.footer-link{
+    color: #222429;
+}
+
+.footer-img{
+    position: absolute;
+    border: 1px solid #3481EF;
+    /* background-color: #F5F6F6; */
+}
+
+.footer-img1{
+    position: relative;
+    border: 1px solid #3481EF;
+    /* background-color: #F5F6F6; */
+}
+
+.footer-bnt{
+    text-align: center;
+}
+
+button{
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+    padding: 5px;
+    border-radius: 7px !important;
+    background-color: white;
+    border: none;
+    color: #222429;
+}
+
+.bi-arrow-right{
+    margin-left: 10px;
+}
+
+.pages{
+    text-align: center !important;
+}
+
+.page-link{
+    color: #222429 !important;
+}
+
+.parent{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.footer-img1{
+    position: relative;
+    top: 0;
+    left: 0;
+   
+    border-radius: 7px;
+}
+
+.footer-img2{
+    position: absolute;
+    top: 0;
+    left: 30px;
+    border: 2px solid white;
+    border-radius: 7px;
+}
+.footer-img3{
+    position: absolute;
+    top: 0;
+    left: 50px;
+    border: 2px solid white;
+    border-radius: 7px;
+}
+.footer-img4{
+    position: absolute;
+    top: 0;
+    left: 80px;
+    border: 2px solid white;
+    border-radius: 7px;
+    
+}
